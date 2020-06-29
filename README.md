@@ -1,7 +1,7 @@
-# Plotting-electromagnetic-waves_nb
+# Plotting electromagnetic waves using Mathematica
 Considering the point charge
  <img src="https://latex.codecogs.com/gif.latex?q(t)" />
- at the origin of coordinate, its latency potential
+ at the origin of coordinate, its retarded potential
  <img src="https://latex.codecogs.com/gif.latex?\phi(\boldsymbol{x},&space;t)" />
   is given by
 
