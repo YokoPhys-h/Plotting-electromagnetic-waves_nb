@@ -1,5 +1,5 @@
 # Plotting electromagnetic waves using Mathematica
-Considering the point charge\\(q(t)\\)
+Considering the point charge\\( q(t) \\)
  <img src="https://latex.codecogs.com/gif.latex?q(t)" />
  at the origin of coordinate, its retarded potential
  <img src="https://latex.codecogs.com/gif.latex?\phi(\boldsymbol{x},&space;t)" />
