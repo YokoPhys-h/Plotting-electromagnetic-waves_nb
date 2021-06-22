@@ -9,4 +9,4 @@ Considering the point charge
 
 I made a dynamic plot of this potential using mathematica in the form of retarded potentials.
 
-![gif](https://raw.github.com/wiki/YokoPhys/Plotting-electromagnetic-waves_nb/potential_wave.gif)
+![gif](https://raw.github.com/wiki/YokoPhys-h/Plotting-electromagnetic-waves_nb/potential_wave.gif)
