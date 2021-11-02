@@ -4,6 +4,9 @@ Considering the point charge
  at the origin of coordinate, its retarded potential
  <img src="https://latex.codecogs.com/gif.latex?\phi(\boldsymbol{x},&space;t)" />
   is given by
+```math
+e^{i\pi} = -1
+```
 
 <img src="https://latex.codecogs.com/gif.latex?\phi(\boldsymbol{x},&space;t)=\frac{q(t-|\boldsymbol{x}|&space;/&space;c)}{4&space;\pi&space;\epsilon_{0}&space;|\boldsymbol{x}|}" />.
 
